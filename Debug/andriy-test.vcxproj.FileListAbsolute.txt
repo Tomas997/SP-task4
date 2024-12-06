@@ -1,0 +1,4 @@
+D:\KPI\Semester_5\SP\task_4\andriy-test\Debug\andriy-test.vcxproj.CopyComplete
+D:\KPI\Semester_5\SP\task_4\andriy-test\Debug\andriy-test.exe
+D:\KPI\Semester_5\SP\task_4\andriy-test\Debug\gtest.pdb
+D:\KPI\Semester_5\SP\task_4\andriy-test\Debug\gtest_main.pdb

@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  test.cpp
+D:\KPI\Semester_5\SP\task_4\andriy-test\stringProcessor.h(10,34): warning C4114: same type qualifier used more than once
+D:\KPI\Semester_5\SP\task_4\andriy-test\stringProcessor.h(20,16): warning C4267: 'return': conversion from 'size_t' to 'const int32_t', possible loss of data
+  andriy-test.vcxproj -> D:\KPI\Semester_5\SP\task_4\andriy-test\x64\Debug\andriy-test.exe
